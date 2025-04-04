@@ -1,0 +1,36 @@
+   === Weekly Employee Schedule ===
+
+   Monday:
+     Morning    : Alice, Dave
+     Afternoon  : Bob
+     Evening    : Charlie, Eve
+
+   Tuesday:
+     Morning    : Alice, Charlie
+     Afternoon  : Bob, Eve
+     Evening    : Dave
+
+   Wednesday:
+     Morning    : Alice, Charlie
+     Afternoon  : Bob
+     Evening    : Dave, Eve
+
+   Thursday:
+     Morning    : Alice, Dave
+     Afternoon  : Bob
+     Evening    : Charlie, Eve
+
+   Friday:
+     Morning    : Alice
+     Afternoon  : Bob, Dave
+     Evening    : Charlie, Eve
+
+   Saturday:
+     Morning    : Alice, Bob
+     Afternoon  : Dave
+     Evening    : Charlie, Eve
+
+   Sunday:
+     Morning    : Alice, Dave
+     Afternoon  : Bob
+     Evening    : Charlie, Eve
